@@ -31,6 +31,6 @@ public class no_of_7 {
         }
     }
     numberofsevens(a, row, col);
-
+ ob.close();
     }
 }
