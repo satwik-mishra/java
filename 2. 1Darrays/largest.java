@@ -19,7 +19,7 @@ public class largest {
             }
      
         }
-        System.out.println("the maximum element="+max);
+        System.out.println("the largest element="+max);
         ob.close();
     }
 }
