@@ -7,9 +7,10 @@ public class sumofn {
         {
             return n;
         }
-        int smn1=sum(n-1);
-        int sn=n+smn1;
-        return sn;
+        // int smn1=sum(n-1);
+        // int sn=n+smn1;
+        // return sn;
+        return n+sum(n-1);
 
     }
     public static void main(String[] args) {
