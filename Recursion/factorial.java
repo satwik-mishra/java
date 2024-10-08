@@ -7,7 +7,10 @@ public class factorial {
        {
         return 1;
        }
-       return n*fact(n-1);
+    //    return n*fact(n-1);
+    int fn=fact(n-1);
+    int f=n*fn;
+    return f;
 
     }
     public static void main(String[] args) {
