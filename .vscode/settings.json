@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        ".",
+        "1. patterns",
+        "2. 1Darrays",
+        "4. 2Darrays"
+    ],
+    "java.project.referencedLibraries": [],
+    "java.dependency.packagePresentation": "flat"
+}
